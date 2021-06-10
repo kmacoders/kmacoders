@@ -3,11 +3,6 @@
   <img src="https://blog.cloud-elements.com/hubfs/shopify-developer-guide-banner.png" alt="Welcome!" />
 </div>
 
-
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- leave a STAR, if you like it ! -->
-
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/kmacoders)
 
@@ -59,45 +54,17 @@
         </a>
 </p>
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
-    </p>
-</details>
+<div align="center" width="50">
+  <img 
+       alt="Shahriar Shafin's GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=vue" />
+</div>
+
 <br>
 
 <!-- Footer -->
 <samp>
     <p align="center">
-        ════ ⋆★⋆ ════
         <br>
         "Happy Coding👨‍💻!"
     </p>
