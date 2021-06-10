@@ -9,12 +9,12 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![Profile views](https://gpvc.arturio.dev/kmacoders)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://twitter.com/kmacoders">Huwng</a></b>
         </samp>
 </h3>
 <br>
@@ -22,9 +22,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Dhaka, Bangladesh 」
+                「 From Ha Noi, Viet Nam 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 Student, Shopify Developer @<b> Academy of Cryptography Techniques </b> 」
                 <br>
                 <br>
         </samp>
@@ -46,16 +46,16 @@
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Typescript"
+                        src="https://img.shields.io/badge/-Typescript-3776AB?style=flat-square&logo=Typescript&logoColor=white">
         </a>
         <!-- C++ -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Vue"
+                        src="https://img.shields.io/badge/-Vue-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
         <!-- Arduino -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Vue&logoColor=white">
         </a>
 </p>
 
@@ -66,7 +66,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
