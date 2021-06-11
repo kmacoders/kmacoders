@@ -25,25 +25,22 @@
         </samp>
 </p>
 
-<div align="center" width="50">
+<div class="chart" style="display: flex">
   <img 
+       align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=kmacoders&show_icons=true&locale=en&layout=compact" 
+       alt="kmacoders" 
+  />
+  <img 
+       align="center" 
        alt="Shahriar Shafin's GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=vue" />
+       src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=vue" 
+  />
+  <img 
+       align="right" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=kmacoders&" 
+       alt="kmacoders" 
+  />
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmacoders&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmacoders)](https://git.io/streak-stats)
-
-
-<br>
-
-<!-- Footer -->
-<samp>
-    <p align="center">
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
-</samp>
 
