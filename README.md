@@ -31,6 +31,12 @@
        src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=vue" />
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmacoders&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <br>
 
 <!-- Footer -->
