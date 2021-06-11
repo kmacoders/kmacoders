@@ -25,22 +25,28 @@
         </samp>
 </p>
 
-<div class="chart" style="display: flex">
+<p align="left">
   <img 
        align="left" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=kmacoders&show_icons=true&locale=en&layout=compact" 
        alt="kmacoders" 
   />
+</p>
+<p align="center">
   <img 
        align="center" 
        alt="Shahriar Shafin's GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=kmacoders&show_icons=true&theme=vue" 
   />
+</p>
+<p align="right">
   <img 
        align="right" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=kmacoders&" 
        alt="kmacoders" 
   />
-</div>
+</p>
+  
+  
 
 
